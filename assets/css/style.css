@@ -398,6 +398,13 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
+.almuerza-estilo{
+  font-family: 'Yellowtail', cursive;
+  font-weight: 50;
+  font-size: larger;
+
+}
 #hero {
   width: 100%;
   background: url("../img/hero-bg.jpg");
@@ -450,7 +457,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #17b57d;
+  background: transparent;
+  border: solid #F9A624;
+  
 }
 
 #hero .animated {
