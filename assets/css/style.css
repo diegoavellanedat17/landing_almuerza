@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #1acc8d;
+  color: #F39340;
 }
 
 a:hover {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1acc8d;
+  border: 6px solid #F39340;
   border-top-color: #d2f9eb;
   border-radius: 50%;
   width: 60px;
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #1acc8d;
+  background: #F39340;
   color: #fff;
   transition: all 0.4s;
 }
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 3px;
   left: 25px;
-  background-color: #1acc8d;
+  background-color: #F39340;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1acc8d;
+  color: #F39340;
 }
 
 .nav-menu .drop-down > a:after {
@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1acc8d;
+  color: #F39340;
   text-decoration: none;
 }
 
@@ -630,7 +630,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #1acc8d;
+  background: #F39340;
   margin: 4px 10px;
 }
 
@@ -761,7 +761,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #F39340;
 }
 
 .about .icon-box .description {
@@ -931,7 +931,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #1acc8d;
+  background: #F39340;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -976,7 +976,7 @@ section {
 .details .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1acc8d;
+  color: #F39340;
 }
 
 .details .content p:last-child {
@@ -1089,7 +1089,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #1acc8d !important;
+  background-color: #F39340 !important;
 }
 
 @media (min-width: 1024px) {
@@ -1178,7 +1178,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #1acc8d;
+  color: #F39340;
 }
 
 .team .member .social i {
@@ -1211,7 +1211,7 @@ section {
 
 .pricing h4 {
   font-size: 36px;
-  color: #1acc8d;
+  color: #F39340;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1243,7 +1243,7 @@ section {
 }
 
 .pricing ul i {
-  color: #1acc8d;
+  color: #F39340;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1261,7 +1261,7 @@ section {
 }
 
 .pricing .btn-buy {
-  background: #1acc8d;
+  background: #F39340;
   display: inline-block;
   padding: 8px 35px 10px 35px;
   border-radius: 50px;
@@ -1280,7 +1280,7 @@ section {
 
 .pricing .featured h3 {
   color: #fff;
-  background: #1acc8d;
+  background: #F39340;
 }
 
 .pricing .advanced {
@@ -1292,7 +1292,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #1acc8d;
+  background: #F39340;
   color: #fff;
 }
 
@@ -1359,7 +1359,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #1acc8d;
+  color: #F39340;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1496,7 +1496,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #1acc8d;
+  background: #F39340;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1544,7 +1544,7 @@ section {
   margin-bottom: 15px;
   background: #010246;
   color: #fff;
-  border-top: 4px solid #1acc8d;
+  border-top: 4px solid #F39340;
   text-align: center;
   padding: 30px 20px;
 }
@@ -1579,7 +1579,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1acc8d;
+  background: #F39340;
   color: #fff;
   text-decoration: none;
 }
@@ -1653,7 +1653,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #1acc8d;
+  background: #F39340;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
